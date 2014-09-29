@@ -78,6 +78,7 @@ return array(
     ),
     
     // Doctrine config
+    /*
     'doctrine' => array(
         'driver' => array(
             'application_entities' => array(
@@ -92,6 +93,7 @@ return array(
             )
         )
     )
+    */
 
     
 );
